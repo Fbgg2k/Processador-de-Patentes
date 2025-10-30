@@ -37,7 +37,7 @@ Este projeto processa arquivos HTML de patentes e gera um relatório consolidado
 
 2. Execute o script principal:
    ```bash
-   python src/solution.PY
+   python src/solution.py
    ```
 
 3. O script irá:
@@ -181,7 +181,7 @@ Se encontrar erros de codificação, verifique se os arquivos de entrada estão 
 ### Ainda com problemas?
 Execute o script principal primeiro para garantir que os dados de teste estão corretos:
 ```bash
-python3 src/SOLUTION.PY
+python3 src/solution.py
 ```
 
 ## Licença
