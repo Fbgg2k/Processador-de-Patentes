@@ -37,7 +37,7 @@ Este projeto processa arquivos HTML de patentes e gera um relatório consolidado
 
 2. Execute o script principal:
    ```bash
-   python src/SOLUTION.PY
+   python src/solution.PY
    ```
 
 3. O script irá:
